@@ -3,7 +3,7 @@
 #' listo paquete
 #'
 #' @param datas: esta la principal
-#'
+#' @param fechas: esta la principal
 #' @return lista
 #' @export
 salida<-function(datas=..,fechas=..){
