@@ -3,3 +3,5 @@
 export(ENTRADA)
 export(hello)
 export(salida)
+
+install_github(dazamora/IDFtool)
